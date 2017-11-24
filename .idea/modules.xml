@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learning-lucene.iml" filepath="$PROJECT_DIR$/learning-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning01-lucene3.6-helloLucene/learning01-lucene3.6-helloLucene.iml" filepath="$PROJECT_DIR$/learning01-lucene3.6-helloLucene/learning01-lucene3.6-helloLucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning02-lucene3.6-index/learning02-lucene3.6-index.iml" filepath="$PROJECT_DIR$/learning02-lucene3.6-index/learning02-lucene3.6-index.iml" />
+    </modules>
+  </component>
+</project>
